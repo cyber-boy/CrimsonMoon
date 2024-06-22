@@ -1,3 +1,12 @@
+/**
+ * @name Crimson Moon
+ * @author Mrmqueen
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/SarthakChoyal/CrimsonMoon
+ * @website https://github.com/SarthakChoyal/CrimsonMoon
+*/
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;700&display=swap');
 @import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
